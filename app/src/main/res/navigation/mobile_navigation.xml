@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.prctica07_menlateral.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="com.example.prctica07_menlateral.ui.information.InfoFragment"
+        android:label="@string/Info"
+        tools:layout="@layout/fragment_info" />
+    <fragment
+        android:id="@+id/nav_contacto"
+        android:name="com.example.prctica07_menlateral.ui.contacto.ContactoFragment"
+        android:label="@string/Contacto"
+        tools:layout="@layout/fragment_contacto" />
+    <fragment
+        android:id="@+id/nav_productos"
+        android:name="com.example.prctica07_menlateral.ui.productos.ProductosFragment"
+        android:label="@string/Productos"
+        tools:layout="@layout/fragment_productos" />
+
+</navigation>

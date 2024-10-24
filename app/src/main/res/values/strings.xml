@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tornillo Loco</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Opciones del menu lateral -->
+    <string name="Info">Información</string>
+    <string name="Productos">Productos</string>
+    <string name="Contacto">Contacto</string>
+    <!-- Opcion del formulario de contacto-->
+    <string name="Registrar">Registrar</string>
+    <string name="Nombre">Nombre(s)</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Correo">Correo electrónico</string>
+
+    <!-- Opcion del activity informacion -->
+    <string name="Ubicacion">Refugio Sandoval #11, Colonia Texcalame, Tequila, Jalisco</string>
+    <string name="Tipo">Ferreteria de fontaneria </string>
+    <string name="Mision">En Tornillo Loco, nuestra misión es proporcionar a nuestros clientes la más amplia gama de productos de ferretería de alta calidad, acompañados de un servicio excepcional y asesoría experta. Nos comprometemos a ser el aliado confiable en cada proyecto, grande o pequeño, fomentando la creatividad y la innovación en el bricolaje y la construcción. Valoramos la satisfacción del cliente, la sostenibilidad y el apoyo a nuestra comunidad, trabajando incansablemente para superar sus expectativas y convertir cada compra en una experiencia única y gratificante.</string>
+    <string name="correoo">a22310361@ceti.mx</string>
+    <!-- Lista de productos -->
+    <string-array name="productos">
+        <item>Gusano PVC</item>
+        <item>Foco</item>
+        <item>Cinta</item>
+        <item>Cinta Metrica</item>
+        <item>Escalera</item>
+        <item>Taladro</item>
+        <item>Soplete</item>
+        <item>Destapacaños</item>
+        <item>Carretilla</item>
+        <item>Manguera</item>
+    </string-array>
+
+</resources>
